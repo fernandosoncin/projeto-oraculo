@@ -1,0 +1,17 @@
+{
+  "nome": "Lei 14.133",
+  "timestamp": "20251112_160252",
+  "tipo_arquivo": "📄 PDF",
+  "provedor": "֎ OpenAI",
+  "modelo": "gpt-4.1-nano",
+  "mensagens": [
+    {
+      "type": "human",
+      "content": "Fale um pouco sobre o tema abordado, breve resumo."
+    },
+    {
+      "type": "ai",
+      "content": "Claro! A Lei nº 14.133, de 1º de abril de 2021, apresenta as normas gerais de licitação e contratação para as organizações públicas no Brasil, incluindo União, Estados, Municípios e o Distrito Federal. Ela substitui as leis anteriores, como a Lei nº 8.666/93, e traz princípios, definições, modalidades, procedimentos e regras para garantir transparência, eficiência, competitividade e integridade nas contratações públicas. A lei também estabelece mecanismos de controle, fiscalização, recursos e penalidades, além de incentivar o uso de tecnologias digitais, como o Portal Nacional de Contratações Públicas (PNCP), para centralizar e facilitar o acesso às informações. Seu foco é promover uma gestão pública mais moderna, eficiente e ética nas contratações."
+    }
+  ]
+}
